@@ -23,6 +23,4 @@ To strengthen SQL problem-solving skills and improve understanding of database q
 SQL (MySQL / PostgreSQL compatible queries)
 
 
-✅ A more professional portfolio version
 
-✅ A resume-ready one-line description
